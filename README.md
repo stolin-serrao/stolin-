@@ -1,4 +1,5 @@
 Bank-loans-of-customers
+
 Introduction
 The Bank Analytics Project delves into two pivotal datasets, Finance 1 and Finance 2, offering a detailed examination of financial parameters related to loans and borrower behavior. With columns encompassing loan details, credit history, and repayment metrics, our objective is to extract actionable insights through advanced analytics. Focused on loan performance, borrower credit behavior, risk assessment, and predictive analytics, the project aims to empower financial institutions with data-driven decision-making capabilities. By providing a nuanced understanding of financial trends, we strive to enhance risk management strategies for more informed and effective banking practices.
 
